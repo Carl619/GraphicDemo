@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Tutorial9.cpp" />
+    <ClCompile Include="..\..\nclgl\MD5Node.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\nclgl\MD5Anim.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\nclgl\MD5FileData.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\nclgl\MD5Mesh.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\nclgl\scenenode.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{9a393a7b-9409-4e27-9412-ee405ef13b4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{04d7efeb-cfdf-4fa1-8333-9508ebe3b756}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\nclgl\MD5Node.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\nclgl\MD5Mesh.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\nclgl\MD5Anim.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\nclgl\MD5FileData.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\nclgl\scenenode.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

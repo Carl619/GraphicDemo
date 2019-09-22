@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Tutorial7.cpp" />
+    <ClCompile Include="..\..\nclgl\scenenode.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\nclgl\plane.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\nclgl\frustum.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6) Scene Graph\cuberobot.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{6e22c27b-c8de-4256-83bc-4b8706588ba8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{5b3c68ce-f70d-4b1d-a244-1bed9c1618ed}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\nclgl\scenenode.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\nclgl\plane.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\nclgl\frustum.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\6) Scene Graph\cuberobot.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="renderer.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,35 @@
+﻿  renderersplit.cpp
+  renderershadows.cpp
+  renderer.cpp
+  main.cpp
+  cuberobot.cpp
+  Generating Code...
+renderer.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+renderershadows.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+renderersplit.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+renderer.obj : warning LNK4049: locally defined symbol ___glewUniform1i imported
+renderershadows.obj : warning LNK4049: locally defined symbol ___glewUniform1i imported
+renderersplit.obj : warning LNK4049: locally defined symbol ___glewUniform1i imported
+renderer.obj : warning LNK4049: locally defined symbol ___glewUniform3fv imported
+renderershadows.obj : warning LNK4049: locally defined symbol ___glewUniform3fv imported
+renderersplit.obj : warning LNK4049: locally defined symbol ___glewUniform3fv imported
+renderer.obj : warning LNK4049: locally defined symbol ___glewUniform4fv imported
+renderer.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+renderershadows.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+renderersplit.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+renderer.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+renderershadows.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+renderersplit.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+renderershadows.obj : warning LNK4049: locally defined symbol ___glewActiveTexture imported
+renderersplit.obj : warning LNK4049: locally defined symbol ___glewActiveTexture imported
+renderershadows.obj : warning LNK4049: locally defined symbol ___glewBindFramebuffer imported
+renderersplit.obj : warning LNK4217: locally defined symbol ___glewBindFramebuffer imported in function "public: __thiscall RendererSplit::RendererSplit(class Window &)" (??0RendererSplit@@QAE@AAVWindow@@@Z)
+renderershadows.obj : warning LNK4049: locally defined symbol ___glewDeleteFramebuffers imported
+renderersplit.obj : warning LNK4049: locally defined symbol ___glewDeleteFramebuffers imported
+renderershadows.obj : warning LNK4049: locally defined symbol ___glewFramebufferTexture2D imported
+renderersplit.obj : warning LNK4049: locally defined symbol ___glewFramebufferTexture2D imported
+renderershadows.obj : warning LNK4049: locally defined symbol ___glewGenFramebuffers imported
+renderersplit.obj : warning LNK4049: locally defined symbol ___glewGenFramebuffers imported
+renderersplit.obj : error LNK2019: unresolved external symbol _gluOrtho2D@32 referenced in function "public: virtual void __thiscall RendererSplit::RenderScene(void)" (?RenderScene@RendererSplit@@UAEXXZ)
+renderersplit.obj : error LNK2019: unresolved external symbol _gluPerspective@32 referenced in function "public: virtual void __thiscall RendererSplit::RenderScene(void)" (?RenderScene@RendererSplit@@UAEXXZ)
+C:\Users\b6069733\VIsual Projects\CSC8502 Code 2018\CSC8502 Code 2018\Graphics For Games\Debug\GraphicsCoursework.exe : fatal error LNK1120: 2 unresolved externals
