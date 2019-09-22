@@ -1,0 +1,23 @@
+﻿  Window.cpp
+  Shader.cpp
+  scenenode.cpp
+  Quaternion.cpp
+  plane.cpp
+  OGLRenderer.cpp
+  OBJMesh.cpp
+  Mouse.cpp
+  Mesh.cpp
+  MD5Node.cpp
+  MD5Mesh.cpp
+  MD5FileData.cpp
+  MD5Anim.cpp
+  Matrix4.cpp
+  Keyboard.cpp
+  heightmap.cpp
+  GameTimer.cpp
+  frustum.cpp
+  Camera.cpp
+c:\users\b6069733\visual projects\csc8502 code 2018 (1)\csc8502 code 2018\nclgl\camera.cpp(41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\b6069733\visual projects\csc8502 code 2018 (1)\csc8502 code 2018\nclgl\camera.cpp(44): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  nclgl.vcxproj -> C:\Users\b6069733\VIsual Projects\CSC8502 Code 2018 (1)\CSC8502 Code 2018\Graphics For Games\Debug\nclgl.lib
