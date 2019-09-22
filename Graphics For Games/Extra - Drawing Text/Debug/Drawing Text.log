@@ -1,1 +1,5 @@
-﻿
+﻿  Drawing Text.cpp
+  Renderer.cpp
+  TextMesh.cpp
+  Generando código...
+LINK : fatal error LNK1104: no se puede abrir el archivo 'nclgl.lib'

@@ -1,1 +1,18 @@
-﻿
+﻿  renderer.cpp
+  Tutorial15.cpp
+  Generando código...
+D:\VisualStudioProjects\vvv\Graphics For Games\15) Deferred Shading\Tutorial15.cpp(12,44): warning C4244:  'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+LINK : warning LNK4286: "___glewActiveTexture" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewDrawBuffers" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewGetUniformLocation" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewUniform1i" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewUniform2f" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewUniform3fv" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewUseProgram" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewBindFramebuffer" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewCheckFramebufferStatus" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewDeleteFramebuffers" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewFramebufferTexture2D" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewGenFramebuffers" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+glew32.lib(glew.obj) : warning LNK4099: no se encontró PDB 'vc120.pdb' con 'glew32.lib(glew.obj)' o en 'D:\VisualStudioProjects\vvv\Graphics For Games\Debug\vc120.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Tutorial15.vcxproj -> D:\VisualStudioProjects\vvv\Graphics For Games\Debug\Tutorial 15 - Deferred Shading.exe

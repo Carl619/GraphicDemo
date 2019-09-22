@@ -1,1 +1,12 @@
-﻿
+﻿  renderer.cpp
+D:\VisualStudioProjects\vvv\Graphics For Games\5) Stencils & Scissors\renderer.cpp(45,44): warning C4244:  'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+D:\VisualStudioProjects\vvv\Graphics For Games\5) Stencils & Scissors\renderer.cpp(45,22): warning C4244:  'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+D:\VisualStudioProjects\vvv\Graphics For Games\5) Stencils & Scissors\renderer.cpp(44,53): warning C4244:  'argumento': conversión de 'float' a 'GLint'; posible pérdida de datos
+  tutorial5.cpp
+  Generando código...
+D:\VisualStudioProjects\vvv\Graphics For Games\5) Stencils & Scissors\renderer.cpp(44,31): warning C4244:  'argumento': conversión de 'float' a 'GLint'; posible pérdida de datos
+LINK : warning LNK4286: "___glewGetUniformLocation" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewUniform1i" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewUseProgram" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+glew32.lib(glew.obj) : warning LNK4099: no se encontró PDB 'vc120.pdb' con 'glew32.lib(glew.obj)' o en 'D:\VisualStudioProjects\vvv\Graphics For Games\Debug\vc120.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Tutorial5.vcxproj -> D:\VisualStudioProjects\vvv\Graphics For Games\Debug\Tutorial 05 - Scissors and Stencils.exe

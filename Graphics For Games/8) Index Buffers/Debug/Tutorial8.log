@@ -1,1 +1,19 @@
-﻿
+﻿  mesh.cpp
+  renderer.cpp
+  tutorial8.cpp
+  Generando código...
+LINK : warning LNK4286: "___glewActiveTexture" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewBindBuffer" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewBufferData" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewDeleteBuffers" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewGenBuffers" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewEnableVertexAttribArray" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewVertexAttribPointer" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewBindVertexArray" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewDeleteVertexArrays" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewGenVertexArrays" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewGetUniformLocation" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewUniform1i" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewUseProgram" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+glew32.lib(glew.obj) : warning LNK4099: no se encontró PDB 'vc120.pdb' con 'glew32.lib(glew.obj)' o en 'D:\VisualStudioProjects\vvv\Graphics For Games\Debug\vc120.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Tutorial8.vcxproj -> D:\VisualStudioProjects\vvv\Graphics For Games\Debug\Tutorial 08 - Index Buffers.exe

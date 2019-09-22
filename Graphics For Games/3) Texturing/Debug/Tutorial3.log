@@ -1,1 +1,32 @@
-﻿
+﻿  mesh.cpp
+  shader.cpp
+  renderer.cpp
+  tutorial3.cpp
+  Generando código...
+LINK : warning LNK4286: "___glewActiveTexture" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewBindBuffer" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewBufferData" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewDeleteBuffers" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewGenBuffers" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewEnableVertexAttribArray" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewVertexAttribPointer" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewBindVertexArray" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewDeleteVertexArrays" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewGenVertexArrays" importa el símbolo "glew32.lib(glew.obj)" definido en "mesh.obj"
+LINK : warning LNK4286: "___glewAttachShader" importa el símbolo "glew32.lib(glew.obj)" definido en "shader.obj"
+LINK : warning LNK4286: "___glewBindAttribLocation" importa el símbolo "glew32.lib(glew.obj)" definido en "shader.obj"
+LINK : warning LNK4286: "___glewCompileShader" importa el símbolo "glew32.lib(glew.obj)" definido en "shader.obj"
+LINK : warning LNK4286: "___glewCreateProgram" importa el símbolo "glew32.lib(glew.obj)" definido en "shader.obj"
+LINK : warning LNK4286: "___glewCreateShader" importa el símbolo "glew32.lib(glew.obj)" definido en "shader.obj"
+LINK : warning LNK4286: "___glewDeleteProgram" importa el símbolo "glew32.lib(glew.obj)" definido en "shader.obj"
+LINK : warning LNK4286: "___glewDeleteShader" importa el símbolo "glew32.lib(glew.obj)" definido en "shader.obj"
+LINK : warning LNK4286: "___glewDetachShader" importa el símbolo "glew32.lib(glew.obj)" definido en "shader.obj"
+LINK : warning LNK4286: "___glewGetProgramiv" importa el símbolo "glew32.lib(glew.obj)" definido en "shader.obj"
+LINK : warning LNK4286: "___glewGetShaderiv" importa el símbolo "glew32.lib(glew.obj)" definido en "shader.obj"
+LINK : warning LNK4286: "___glewLinkProgram" importa el símbolo "glew32.lib(glew.obj)" definido en "shader.obj"
+LINK : warning LNK4286: "___glewShaderSource" importa el símbolo "glew32.lib(glew.obj)" definido en "shader.obj"
+LINK : warning LNK4286: "___glewGetInfoLogARB" importa el símbolo "glew32.lib(glew.obj)" definido en "shader.obj"
+LINK : warning LNK4286: "___glewGetUniformLocation" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewUniform1i" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+LINK : warning LNK4286: "___glewUseProgram" importa el símbolo "glew32.lib(glew.obj)" definido en "renderer.obj"
+  Tutorial3.vcxproj -> D:\VisualStudioProjects\vvv\Graphics For Games\Debug\Tutorial 03 - Texturing.exe

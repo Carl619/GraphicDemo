@@ -1,1 +1,5 @@
-﻿
+﻿  light.cpp
+  renderer.cpp
+  Tutorial11.cpp
+  Generando código...
+LINK : fatal error LNK1104: no se puede abrir el archivo 'nclgl.lib'

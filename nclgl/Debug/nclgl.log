@@ -1,1 +1,24 @@
-﻿
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): warning : El proceso no puede obtener acceso al archivo 'd:\visualstudioprojects\vvv\nclgl\debug\objmesh.obj' porque está siendo utilizado en otro proceso.
+  Camera.cpp
+D:\VisualStudioProjects\vvv\nclgl\Camera.cpp(41,21): warning C4244:  '+=': conversión de 'double' a 'float'; posible pérdida de datos
+  frustum.cpp
+  GameTimer.cpp
+  heightmap.cpp
+  Keyboard.cpp
+  Matrix4.cpp
+  MD5Anim.cpp
+  MD5FileData.cpp
+  MD5Mesh.cpp
+  MD5Node.cpp
+  Mesh.cpp
+  Mouse.cpp
+  OBJMesh.cpp
+  OGLRenderer.cpp
+  plane.cpp
+  Quaternion.cpp
+  scenenode.cpp
+  Shader.cpp
+  Window.cpp
+  Generando código...
+D:\VisualStudioProjects\vvv\nclgl\Camera.cpp(44,21): warning C4244:  '-=': conversión de 'double' a 'float'; posible pérdida de datos
+  nclgl.vcxproj -> D:\VisualStudioProjects\vvv\Graphics For Games\Debug\nclgl.lib

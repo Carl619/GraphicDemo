@@ -1,1 +1,26 @@
-﻿
+﻿  MD5Anim.cpp
+  MD5FileData.cpp
+  MD5Mesh.cpp
+  MD5Node.cpp
+  scenenode.cpp
+  Renderer.cpp
+  Tutorial9.cpp
+  Generando código...
+D:\VisualStudioProjects\vvv\Graphics For Games\9) Skeletal Animation\Renderer.cpp(55,49): warning C4244:  'argumento': conversión de 'int' a 'const float'; posible pérdida de datos
+LINK : warning LNK4286: "___glewBindBuffer" importa el símbolo "glew32.lib(glew.obj)" definido en "MD5Mesh.obj"
+LINK : warning LNK4286: "___glewBindBuffer" importa el símbolo "glew32.lib(glew.obj)" definido en "MD5Node.obj"
+LINK : warning LNK4286: "___glewBufferSubData" importa el símbolo "glew32.lib(glew.obj)" definido en "MD5Mesh.obj"
+LINK : warning LNK4286: "___glewActiveTexture" importa el símbolo "glew32.lib(glew.obj)" definido en "MD5Node.obj"
+LINK : warning LNK4286: "___glewBufferData" importa el símbolo "glew32.lib(glew.obj)" definido en "MD5Node.obj"
+LINK : warning LNK4286: "___glewDeleteBuffers" importa el símbolo "glew32.lib(glew.obj)" definido en "MD5Node.obj"
+LINK : warning LNK4286: "___glewGenBuffers" importa el símbolo "glew32.lib(glew.obj)" definido en "MD5Node.obj"
+LINK : warning LNK4286: "___glewEnableVertexAttribArray" importa el símbolo "glew32.lib(glew.obj)" definido en "MD5Node.obj"
+LINK : warning LNK4286: "___glewVertexAttribPointer" importa el símbolo "glew32.lib(glew.obj)" definido en "MD5Node.obj"
+LINK : warning LNK4286: "___glewBindVertexArray" importa el símbolo "glew32.lib(glew.obj)" definido en "MD5Node.obj"
+LINK : warning LNK4286: "___glewDeleteVertexArrays" importa el símbolo "glew32.lib(glew.obj)" definido en "MD5Node.obj"
+LINK : warning LNK4286: "___glewGenVertexArrays" importa el símbolo "glew32.lib(glew.obj)" definido en "MD5Node.obj"
+LINK : warning LNK4286: "___glewGetUniformLocation" importa el símbolo "glew32.lib(glew.obj)" definido en "Renderer.obj"
+LINK : warning LNK4286: "___glewUniform1i" importa el símbolo "glew32.lib(glew.obj)" definido en "Renderer.obj"
+LINK : warning LNK4286: "___glewUseProgram" importa el símbolo "glew32.lib(glew.obj)" definido en "Renderer.obj"
+glew32.lib(glew.obj) : warning LNK4099: no se encontró PDB 'vc120.pdb' con 'glew32.lib(glew.obj)' o en 'D:\VisualStudioProjects\vvv\Graphics For Games\Debug\vc120.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Tutorial9.vcxproj -> D:\VisualStudioProjects\vvv\Graphics For Games\Debug\Tutorial 09 - Skeletal Animation.exe
